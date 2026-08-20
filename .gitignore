@@ -5,8 +5,9 @@ local.properties
 *.iml
 .idea/
 
-# Generated validation logs
+# Generated validation logs and release artifacts
 *.log
+tiny-tools-debug.apk
 
 # OS files
 .DS_Store
