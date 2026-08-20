@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tiny_black">#101112</color>
+    <color name="tiny_charcoal">#181A1C</color>
+    <color name="tiny_graphite">#232629</color>
+    <color name="tiny_orange">#F28C28</color>
+    <color name="tiny_off_white">#F3F0EA</color>
+</resources>

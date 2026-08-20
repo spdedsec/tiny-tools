@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_tiny_tools"
+        android:label="Tiny Tools"
+        android:roundIcon="@drawable/ic_tiny_tools"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TinyTools">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="Tiny Tools"
+            android:icon="@drawable/ic_tiny_tools">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
